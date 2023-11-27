@@ -4,3 +4,7 @@
 
 ## Finalidade
 É um projeto exemplo, criado para uma barbearia fictícia e servirá para compor meu portifólio de projetos.
+
+## Deployment
+O deploy do projeto foi feito utilizando a plataforma Vercel e pode ser acessado através do link:
+<a href="https://barber-landing-page-omega.vercel.app" target="_blank">Dev Barber<a/>
